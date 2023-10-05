@@ -1,3 +1,8 @@
+# Author: Michael
+# Date: October 5, 2023,
+# Description: This script perform object detection or hole detection inside the seed tray.
+
+
 import cv2
 import numpy as np
 import threading
